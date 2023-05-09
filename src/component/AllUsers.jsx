@@ -9,7 +9,7 @@ const AllUsers = () => {
 
   return (
     <div className="container mx-auto">
-      <Link to="/addUser">
+      <Link to="/">
         <button className="text-purple-600 shadow-lg btn btn-ghost mt-20 mb-10 capitalize">
           New User
           <FaUserAlt className="ml-2"></FaUserAlt>
